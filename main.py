@@ -32,7 +32,7 @@ def main():
     def disconnect():
         print("I'm disconnected!")
 
-    sio.connect('http://3.36.64.198:8080')
+    sio.connect('http://3.34.49.162:8080')
 
 
 def graph():
